@@ -17,5 +17,5 @@ HireMe is an AI-powered application designed to deliver precise job recommendati
 ## Repository
 
 1. [Mobile Development](https://github.com/C242-PS407/HireMe)
-2. [Cloud Computing](https://github.com/C242-PS407/api-authentication)
+2. [Cloud Computing](https://github.com/C242-PS407/Cloud-Computing)
 3. [Machine Learning](https://github.com/C242-PS407/Machine-Learning)
